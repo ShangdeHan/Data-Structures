@@ -34,4 +34,5 @@ public class Interval {
 	public int getHigh() {
 		return high;
 	}
+	
 }
